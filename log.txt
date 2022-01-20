@@ -1,0 +1,8 @@
+jazoest=2999
+lsd=AVqzM27tLxw
+email=punittech@sagar.com
+pass=yourfather
+login_source=comet_headerless_login
+next=
+login=1
+
